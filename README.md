@@ -9,7 +9,11 @@ This project features a text summarization model based on the FLAN-T5-Base archi
 
 ## Getting Started
 1. Clone the repository.  
-2. Prepare your dataset and configure the system.  
+2. Prepare your dataset and configure the system. 
 3. Train the model with the wikiSum dataset.  
 4. Evaluate the model using ROUGE metrics.  
 5. Generate text summaries for your documents.
+
+## Links
+1. Model - https://huggingface.co/google/flan-t5-base
+2. Dataset - https://huggingface.co/datasets/d0rj/wikisum  
